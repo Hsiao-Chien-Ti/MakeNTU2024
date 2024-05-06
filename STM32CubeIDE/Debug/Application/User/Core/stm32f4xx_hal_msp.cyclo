@@ -1,0 +1,10 @@
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:65:6:HAL_MspInit	1
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:88:6:HAL_ETH_MspInit	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:158:6:HAL_ETH_MspDeInit	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:202:6:HAL_TIM_PWM_MspInit	3
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:235:6:HAL_TIM_Base_MspInit	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:254:6:HAL_TIM_MspPostInit	3
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:306:6:HAL_TIM_PWM_MspDeInit	3
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:339:6:HAL_TIM_Base_MspDeInit	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:364:6:HAL_UART_MspInit	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/stm32f4xx_hal_msp.c:400:6:HAL_UART_MspDeInit	2

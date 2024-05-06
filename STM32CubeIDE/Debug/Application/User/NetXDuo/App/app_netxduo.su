@@ -1,0 +1,5 @@
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/NetXDuo/App/app_netxduo.c:74:6:MX_NetXDuo_Init	56	static
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/NetXDuo/App/app_netxduo.c:210:13:ip_address_change_notify_callback	16	static
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/NetXDuo/App/app_netxduo.c:221:13:App_Main_Thread_Entry	32	static
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/NetXDuo/App/app_netxduo.c:262:13:App_UDP_Thread_Entry	648	static
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/NetXDuo/App/app_netxduo.c:467:13:App_Link_Thread_Entry	40	static

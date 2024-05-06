@@ -1,0 +1,2 @@
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/app_threadx.c:59:6:App_ThreadX_Init	24	static
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/app_threadx.c:76:6:MX_ThreadX_Init	8	static

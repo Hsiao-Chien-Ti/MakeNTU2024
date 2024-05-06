@@ -1,0 +1,15 @@
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:95:6:Success_Handler	1
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:114:5:main	3
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:210:6:SystemClock_Config	4
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:263:13:MX_ETH_Init	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:312:13:MX_TIM1_Init	5
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:377:13:MX_TIM2_Init	4
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:422:13:MX_TIM3_Init	4
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:471:13:MX_USART3_UART_Init	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:504:13:MX_GPIO_Init	1
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:625:1:__io_putchar	1
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:648:6:stopMotor	1
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:657:6:controlSpeed	1
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:662:6:controlMotor	2
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:704:6:HAL_TIM_PeriodElapsedCallback	9
+/Users/adi/Developer/STM32CubeIDE/Nx_UDP_Echo_Client/Core/Src/main.c:755:6:Error_Handler	1
